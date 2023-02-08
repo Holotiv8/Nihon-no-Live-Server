@@ -1,0 +1,29 @@
+[
+    {
+        "username": "brianrr",
+        "email": "brian@mail.com",
+        "password": "brian123",
+        "isSubscribed": false,
+        "role": "Admin",
+        "isValid": true,
+        "uniqueString": "12345678"
+    },
+    {
+        "username": "Shirakami Fubuki",
+        "email": "fubuki@mail.com",
+        "password": "fubuki123",
+        "isSubscribed": true,
+        "role": "Admin",
+        "isValid": true,
+        "uniqueString": "12345678"
+    },
+    {
+        "username": "bintang",
+        "email": "bintang@mail.com",
+        "password": "bintang123",
+        "isSubscribed": true,
+        "role": "Admin",
+        "isValid": false,
+        "uniqueString": "12345678"
+    }
+]

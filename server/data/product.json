@@ -1,0 +1,79 @@
+[
+    {
+        "name":"Akrilik Stand Kobo Kanaeru",
+        "price": 224800,
+        "description":"3rd Gen Half-year Anniversary Akrilik Stand - Kobo Kanaeru",
+        "mainImg":"https://ik.imagekit.io/ftti7xeyu/Final/akrilik_kobo.jpg?ik-sdk-version=javascript-1.4.3&updatedAt=1675252686432",
+        "IdolId":9
+    },
+    {
+        "name":"Mangku - Mangkobok ",
+        "price": 245300,
+        "description":"The merch sales for the birthday celebration of Kobo Kanaeru from hololive Indonesia",
+        "mainImg":"https://ik.imagekit.io/ftti7xeyu/Final/en_kobobd2022goods_b5_1670817248_800x.webp?ik-sdk-version=javascript-1.4.3&updatedAt=1675428051977",
+        "IdolId":9
+    },
+    {
+        "name":"Boneka Kawai Chiyopi",
+        "price": 449600,
+        "description":"hololive Boneka - Kyawaii Chiyopi, Ukuran: Tinggi 150x Lebar 130 x Diameter 85mm, Bahan: Polyester",
+        "mainImg":"https://ik.imagekit.io/ftti7xeyu/Final/Boneka_Kawai_chiyopi.png?ik-sdk-version=javascript-1.4.3&updatedAt=1675253335448",
+        "IdolId":3
+    },
+    {
+        "name":"Tas Selempang Iofi",
+        "price": 1110000,
+        "description":"Tas Selempang - 'Iofi Color', Ukuran: Tas/ Sekitar 18.5 x 13 x 5 cm, Tali/ Panjang 165 cm, Bahan: Polyester",
+        "mainImg":"https://ik.imagekit.io/ftti7xeyu/Final/tas_selempang_iofi.png?ik-sdk-version=javascript-1.4.3&updatedAt=1675258464639",
+        "IdolId":3
+    },
+    {
+        "name":"Akrilik Stand Iofi",
+        "price": 479600,
+        "description":"The merch sales for hololive Indonesia 3D acrylic stands",
+        "mainImg":"https://ik.imagekit.io/ftti7xeyu/Final/_ID_3DAS_tanpin_ENG_0914_png_800x.webp?ik-sdk-version=javascript-1.4.3&updatedAt=1675428925733",
+        "IdolId":3
+    },
+    {
+        "name":"Bantal Risu",
+        "price": 1049000,
+        "description":"Item spesial ulang tahun Ayunda Risu",
+        "mainImg":"https://ik.imagekit.io/ftti7xeyu/Final/bantalrisu.png?ik-sdk-version=javascript-1.4.3&updatedAt=1675251616085",
+        "IdolId":2
+    },
+    {
+        "name":"Akrilik Stand Risu",
+        "price": 500000,
+        "description":"The merch sales for hololive Indonesia 3D acrylic stands",
+        "mainImg":"https://ik.imagekit.io/ftti7xeyu/Final/_ID_3DAS_tanpin_ENG_0914_png_800x.webp?ik-sdk-version=javascript-1.4.3&updatedAt=1675428925733",
+        "IdolId":2
+    },
+    {
+        "name":"Squishy Bubba Night Lamp",
+        "price":120000,
+        "description":"The merch sales for hololive English's New Year Acrylic Stand",
+        "mainImg":"https://ik.imagekit.io/ftti7xeyu/Final/watsonamelia_2023_en_tanpin03_230106_1672982870_800x.webp?ik-sdk-version=javascript-1.4.3&updatedAt=1675430535419",
+        "IdolId":14
+    },
+    {
+        "name":"Watson amelia pillow cover",
+        "price":250000,
+        "description":"The merch sales for hololive English's New Year Acrylic Stand",
+        "mainImg":"https://ik.imagekit.io/ftti7xeyu/Final/watsonamelia_2023_en_tanpin01_230105_1672981777_800x.webp?ik-sdk-version=javascript-1.4.3&updatedAt=1675430430721",
+        "IdolId":14
+    },
+    {
+        "name":"Akai Haato Pillow Cover",
+        "price":300000,
+        "description":"The merch sales for the birthday celebration of Akai Haato",
+        "mainImg":"https://ik.imagekit.io/ftti7xeyu/Final/haatoBD2022_shohin_03_png_800x.webp?ik-sdk-version=javascript-1.4.3&updatedAt=1675431045528",
+        "IdolId":23
+    },
+    {
+        "name":"Akai Haato Bag",
+        "price":800000,
+        "description":"Merch sales to celebrate the 4th Anniversary of Akai Haato",
+        "mainImg":"https://ik.imagekit.io/ftti7xeyu/Final/akaihaato_4th_tanpin02_0531_800x.webp?ik-sdk-version=javascript-1.4.3&updatedAt=1675431326613",
+        "IdolId":23
+    }
+]
