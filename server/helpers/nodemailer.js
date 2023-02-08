@@ -41,7 +41,7 @@ const sendEmailRegis = {
         <center>
         <img src="https://ik.imagekit.io/ftti7xeyu/Final/verif_img2.png?ik-sdk-version=javascript-1.4.3&updatedAt=1675837980143" width=500">
         <div style="margin-top: 30px; font-size: large;">
-        Click <a href = http://localhost:3000/users/verify/${uniqueString}> here </a> to verify
+        Click <a href = http://122.248.218.60/users/verify/${uniqueString}> here </a> to verify
         </div>
         </center>`,
       };
