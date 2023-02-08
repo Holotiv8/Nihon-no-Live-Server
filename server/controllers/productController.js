@@ -20,7 +20,8 @@ class productController{
         try {
             let {id} = req.params
             let data = await Products.findAll({
-                where: {IdolId: id}
+                where: {IdolId: id},
+                include:[{model:Idol}]
             })
             if (!data.length) {
                 throw { name: 'Data Not Found' }
