@@ -8,7 +8,7 @@ const sendEmailObj = {
         port: 587,
         secure: false, // true for 465, false for other ports
         auth: {
-          user: "tweetwar2022@gmail.com",
+          user: "nihonolive@gmail.com",
           pass: process.env.NODEMAILER_KEY,
         },
       };
@@ -18,7 +18,7 @@ const sendEmailObj = {
         service: "gmail",
         secure: true,
         auth: {
-          user: "tweetwar2022@gmail.com",
+          user: "nihonolive@gmail.com",
           pass: process.env.NODEMAILER_KEY,
         },
         tls: {
@@ -32,7 +32,7 @@ const sendEmailObj = {
       );
 
       const option2 = {
-        from: "tweetwar2022@gmail.com",
+        from: "nihonolive@gmail.com",
         to: email,
         subject: "Success Subscribe",
         html: `

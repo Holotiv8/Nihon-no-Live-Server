@@ -10,7 +10,7 @@ const sendEmailRegis = {
         port: 587,
         secure: false, // true for 465, false for other ports
         auth: {
-          user: "tweetwar2022@gmail.com", // generated ethereal user
+          user: "nihonolive@gmail.com", // generated ethereal user
           pass: process.env.NODEMAILER_KEY, // generated ethereal password
         },
       };
@@ -20,7 +20,7 @@ const sendEmailRegis = {
         service: "gmail",
         secure: true,
         auth: {
-          user: "tweetwar2022@gmail.com",
+          user: "nihonolive@gmail.com",
           pass: process.env.NODEMAILER_KEY,
         },
         tls: {
@@ -34,7 +34,7 @@ const sendEmailRegis = {
       );
 
       const option = {
-        from: "tweetwar2022@gmail.com",
+        from: "nihonolive@gmail.com",
         to: email,
         subject: "Email Confirmation",
         html: `
